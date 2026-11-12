@@ -1,0 +1,11 @@
+node_modules/
+dist/
+scripts/
+*.log
+pty-output.txt
+pty-clean.txt
+.DS_Store
+Thumbs.db
+*.tmp-*
+.env
+.env.*
